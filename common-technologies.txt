@@ -1,0 +1,138 @@
+Cordova
+Unity 3D
+Torch
+PyTorch
+Svelte
+Vim
+Node.js
+.NET Core / .NET
+AWS
+Oracle
+Keras
+Firebase
+Google Cloud Platform
+Qt
+Pulumi
+Hadoop
+APL
+Yarn
+C++
+JavaScript
+Groovy
+Java
+Angular
+Flask
+PHP
+Erlang
+Linux
+Ruby
+Python
+COBOL
+Kotlin
+PowerShell
+.NET Framework
+Spring
+C
+F#
+Terraform
+PyCharm
+FastAPI
+Express
+PostgreSQL
+Haskell
+SQL
+React Native
+Emacs
+IBM Cloud
+Watson
+IPython
+Jupyter
+Play games
+jQuery
+Dart
+RubyMine
+Objective-C
+Cassandra
+Notepad++
+TypeScript
+Elasticsearch
+Apache Spark
+Couchbase
+Android Studio
+ASP.NET Core
+Heroku
+MariaDB
+Xcode
+Flow
+Sublime Text
+Drupal
+SQLite
+ASP.NET
+TextMate
+Puppet
+Unreal Engine
+Perl
+NumPy
+Webstorm
+Xamarin
+R
+Ruby on Rails
+HTML
+CSS
+Atom
+Meditate
+Visual Studio
+PHPStorm
+Delphi
+Bash
+Shell
+C#
+Neovim
+Windows
+Git
+Redis
+Go
+Rust
+Oracle Cloud Infrastructure
+Matlab
+MySQL
+React.js
+IntelliJ
+Rider
+DigitalOcean
+IBM DB2
+Flutter
+Kubernetes
+Crystal
+Visual Studio Code
+Vue.js
+Assembly
+Django
+MacOS
+MongoDB
+BSD
+RStudio
+Scala
+Ansible
+Chef
+Pandas
+Deno
+Docker
+Gatsby
+Symfony
+Panic
+NetBeans
+Eclipse
+Elixir
+Swift
+VBA
+Julia
+Angular.js
+Laravel
+Microsoft Azure
+TensorFlow
+LISP
+Windows Subsystem for Linux (WSL)
+Microsoft SQL Server
+DynamoDB
+Clojure
