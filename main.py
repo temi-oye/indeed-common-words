@@ -47,7 +47,7 @@ def get_number_of_jobs():
   return number_of_jobs
 
 word_frequency = {}
-common_technologies = get_words_from_file(r"common-technologies.txt")
+common_technologies = get_words_from_file(r"Path to text file\common-technologies.txt")
 
 options = webdriver.ChromeOptions()
 driver = webdriver.Chrome(executable_path=r"Path to driver\chromedriver.exe", options=options)
