@@ -14,6 +14,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
+# graph the most popular jobs/technologies (from list) on indeed
+# random sleeps to prevent too many requests being sent in a short space of time
 
 def get_words_from_file(file_name):
   list_of_words = []
