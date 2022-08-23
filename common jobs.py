@@ -36,7 +36,12 @@ def make_most_frequent_words_barchart(word_dict):
 
   words = list(top_words_dict.keys())
   frequencies = list(top_words_dict.values())
-
+  
+  plt.style.use("seaborn")
+  plt.title("Most Common Technologies")
+  plt.xlabel("Frequency")
+  plt.ylabel("Technology")
+  
   plt.barh(words, frequencies)
   plt.show()
 
