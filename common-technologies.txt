@@ -16,7 +16,7 @@ Pulumi
 Hadoop
 APL
 Yarn
-C++
+C / C++
 JavaScript
 Groovy
 Java
@@ -32,7 +32,6 @@ Kotlin
 PowerShell
 .NET Framework
 Spring
-C
 F#
 Terraform
 PyCharm
