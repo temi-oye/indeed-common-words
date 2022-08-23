@@ -24,6 +24,12 @@ def get_words_from_file(file_name):
       list_of_words.append(line.strip())
   return list_of_words
 
+def set_location(location):
+  search_box = driver.find_element(By.ID, "text-input-where")
+  search_box.send_keys((Keys.CONTROL,"a", Keys.DELETE))
+  search_box.send_keys(location)
+  sleep(randint(1, 4))
+
 def search_this_query_indeed(query):
   search_box = driver.find_element(By.ID, "text-input-what")
   search_box.send_keys((Keys.CONTROL,"a", Keys.DELETE))
@@ -59,6 +65,7 @@ common_technologies = get_words_from_file(r"Path to text file\common-technologie
 options = webdriver.ChromeOptions()
 driver = webdriver.Chrome(executable_path=r"Path to driver\chromedriver.exe", options=options)
 driver.get("https://ie.indeed.com/")
+set_location("City")
 
 for technology in common_technologies:
   search_this_query_indeed(technology)
